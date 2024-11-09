@@ -1,0 +1,24 @@
+# Binaries for programs and tests
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go module files
+go.sum
+
+# Editor-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Ignore Go binaries
+/ha-tui
