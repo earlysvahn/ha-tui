@@ -19,6 +19,7 @@ go.sum
 
 # System files
 Thumbs.db
+tmp/
 
 # Ignore Go binaries
 /ha-tui
